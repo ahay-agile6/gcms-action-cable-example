@@ -19,7 +19,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5.x'
 gem 'jbuilder', '~> 2.0'
 # Use Redis adapter to run Action Cable in production
-gem 'redis'
+gem 'redis', '~> 4'
 
 
 
