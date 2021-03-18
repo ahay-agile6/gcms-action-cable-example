@@ -19,7 +19,7 @@ gem 'jquery-rails'
 gem 'turbolinks', '~> 5.x'
 gem 'jbuilder', '~> 2.0'
 # Use Redis adapter to run Action Cable in production
-gem 'redis', '~> 4'
+# gem 'redis', '~> 4'
 
 
 
@@ -44,3 +44,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'newrelic_rpm'
+
+gem 'redis', '~> 3.0'
