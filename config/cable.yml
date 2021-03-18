@@ -3,7 +3,7 @@
 
 production:
   adapter: redis
-  url: redis://redistogo:7fec8f7af7558158b7fd4c5e177997dc@scat.redistogo.com:11444/
+  url: <%= ENV['REDIS_URL'] %>
 
 development:
   adapter: async
