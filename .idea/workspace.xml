@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c4a83c70-4270-4802-80a2-ecf7d26bc7e5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/cable.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/cable.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
     </list>
@@ -160,7 +162,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616100498597</updated>
       <workItem from="1616100500684" duration="2778000" />
-      <workItem from="1616104021819" duration="2943000" />
+      <workItem from="1616104021819" duration="3707000" />
     </task>
     <servers />
   </component>
